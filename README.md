@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rarayhan 
-- 👀 I’m interested in nothing 
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning ... manythings
 - 💞️ I’m looking to collaborate on ... *****
 - 📫 How to reach me ... by walking to my home. 
